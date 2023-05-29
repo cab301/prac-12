@@ -1,0 +1,15 @@
+C:\Users\trand8\source\repos\Horspool\Horspool\bin\Debug\net6.0\Horspool.exe
+C:\Users\trand8\source\repos\Horspool\Horspool\bin\Debug\net6.0\Horspool.deps.json
+C:\Users\trand8\source\repos\Horspool\Horspool\bin\Debug\net6.0\Horspool.runtimeconfig.json
+C:\Users\trand8\source\repos\Horspool\Horspool\bin\Debug\net6.0\Horspool.dll
+C:\Users\trand8\source\repos\Horspool\Horspool\bin\Debug\net6.0\Horspool.pdb
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.csproj.AssemblyReference.cache
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.AssemblyInfoInputs.cache
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.AssemblyInfo.cs
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.csproj.CoreCompileInputs.cache
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.dll
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\refint\Horspool.dll
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.pdb
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\Horspool.genruntimeconfig.cache
+C:\Users\trand8\source\repos\Horspool\Horspool\obj\Debug\net6.0\ref\Horspool.dll
