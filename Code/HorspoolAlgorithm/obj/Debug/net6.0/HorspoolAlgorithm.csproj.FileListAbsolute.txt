@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\bin\Debug\net6.0\HorspoolAlgorithm.exe
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\bin\Debug\net6.0\HorspoolAlgorithm.deps.json
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\bin\Debug\net6.0\HorspoolAlgorithm.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\bin\Debug\net6.0\HorspoolAlgorithm.dll
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\bin\Debug\net6.0\HorspoolAlgorithm.pdb
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.dll
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\refint\HorspoolAlgorithm.dll
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.pdb
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\HorspoolAlgorithm.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Code\HorspoolAlgorithm\obj\Debug\net6.0\ref\HorspoolAlgorithm.dll

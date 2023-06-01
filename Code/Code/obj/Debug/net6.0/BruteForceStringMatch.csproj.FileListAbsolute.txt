@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Code\Code\bin\Debug\net6.0\BruteForceStringMatch.exe
+C:\Users\MELTUser01\source\repos\Code\Code\bin\Debug\net6.0\BruteForceStringMatch.deps.json
+C:\Users\MELTUser01\source\repos\Code\Code\bin\Debug\net6.0\BruteForceStringMatch.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Code\Code\bin\Debug\net6.0\BruteForceStringMatch.dll
+C:\Users\MELTUser01\source\repos\Code\Code\bin\Debug\net6.0\BruteForceStringMatch.pdb
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.dll
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\refint\BruteForceStringMatch.dll
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.pdb
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\BruteForceStringMatch.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Code\Code\obj\Debug\net6.0\ref\BruteForceStringMatch.dll
